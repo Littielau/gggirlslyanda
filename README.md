@@ -1,31 +1,28 @@
-# polytech.cs.2017.spring_project
-Template for Course Project
+# Управляемая гирлянда на микроконтроллере. 
+Гирлянда представляет собой декоративное украшение, цепочку соединённых между собой нитью/проводом предметов (ветвей, цветов, лампочек, фонариков и тд.), применяемое в качестве дизайна интерьера.
 
-## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+## Как работает
+Для переключения режимов достаточно нажать на кнопку.
 
-### Directory structure
-The source code is organized as follows:
+### Структура директория
+Код организован следующим образом:
 
-Subdirectory | Description
+Поддиректории	 | Описание
 -------------|-------------------
-src/         | source files 
-src/tests    | unit tests 
-doc/         | documentation 
-res/         | static resources
+src/         | программные файлы
+src/tests    | тесты
+doc/         | документация
+res/         | ресурсы проекта
 
-### Build
-To build the project, do the following:
+### Сборка проекта
+Для сборки проекта:
 ````
-install ArduinoIDE
-````
-To rebuild everything from scratch, do the following:
-````
-make clean
+Установить ArduinoIDE
+установить библиотеку 
 ````
 
 ## Authors
-* **Name Surname** - xxx@spbstu.ru
+* **Маковецкая Таня** - taqre@yandex.ru
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
