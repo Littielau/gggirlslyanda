@@ -17,7 +17,7 @@ res/         | static resources
 ### Build
 To build the project, do the following:
 ````
-make
+install ArduinoIDE
 ````
 To rebuild everything from scratch, do the following:
 ````
